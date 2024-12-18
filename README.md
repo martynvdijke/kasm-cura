@@ -1,1 +1,1 @@
-# kasm-prusa
+# kasm-cura
