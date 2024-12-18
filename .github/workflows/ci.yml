@@ -24,4 +24,3 @@ jobs:
         run: docker build . --file Dockerfile --tag martynvandijke/kasm-cura:latest
       - name: Push Docker image
         run: docker push martynvandijke/kasm-cura:latest
-
