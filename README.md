@@ -1,3 +1,3 @@
-# kasm-prusa
+# kasm-cura
 
-A [Kasm](kasmweb.com) debian container with prusa installed.
+A [Kasm](kasmweb.com) debian container with cura installed.

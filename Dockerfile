@@ -11,7 +11,7 @@ RUN apt-get update && apt-get install -y \
     curl \
     chromium \
     firefox-esr \
-    prusa-slicer
+    cura
 
 RUN chown 1000:0 $HOME
 RUN $STARTUPDIR/set_user_permission.sh $HOME
